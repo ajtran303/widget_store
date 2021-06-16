@@ -21,5 +21,5 @@ $ python widget_test.py -v
 ### Run a specific test
 
 ```zsh
-$ python widget_test.py -k test_calculate_price_1
+$ python widget_test.py -v TestCalculatePrice.test_1
 ```
